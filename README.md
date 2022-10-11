@@ -5,13 +5,16 @@ this is a test blog
 开始考虑毕业后的事。
 准备在实习和毕业前考几个二级证和专插本。
 >目前专插本学习进度缓慢。
+
 ### 2022/10/7 上午
 日常上午无课自学高数
 >最近进度有点慢
+
 ### 2022/10/6 晚上
 第一次写日志。
 不知道写什么。
 那就用c语音写个hello world吧。
+
 ####hello world
 ```
 #inlcude<stdio.h>
@@ -20,6 +23,7 @@ this is a test blog
   return 0;
 }
 ```
+
 ####扫雷
 ```
 #include <stdio.h>
